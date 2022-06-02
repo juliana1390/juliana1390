@@ -26,7 +26,7 @@ src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-word
 
 <div>
   <img align="center" alt="Juliana-unity" height="30" width="80"
-src="[https://drive.google.com/file/d/1etrqeOXUfuQG7w8MoAQOJKeXeCBDzNuX/view?usp=sharing](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)">
+src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   <img align="center" alt="Juliana-Figma" height="30" width="80"
 src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" alt="Juliana-IJ" height="30" width="130"
