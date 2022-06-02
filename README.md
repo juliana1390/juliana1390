@@ -18,15 +18,15 @@
   <img align="center" alt="Juliana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="Juliana-C" height="30" width="50"
 src="[https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white](https://icongr.am/devicon/java-original-wordmark.svg?size=148&color=currentColor)">
-  <img align="center" alt="Juliana-C#" height="30" width="50"
-src="[file:///C:/Users/julia/OneDrive/Documentos/BSI/csharp_original_logo_icon_146578.svg](https://drive.google.com/file/d/1c8WxlEKL2iWOHWEnpao8PHzJI8Bf9MaD/view?usp=sharing)">
+  <img align="center" alt="Juliana-CSharp" height="30" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Juliana-Java" height="30" width="60" 
 src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg](https://icongr.am/devicon/java-original-wordmark.svg?size=148&color=currentColor)">
 </div>  
 
 <div>
   <img align="center" alt="Juliana-unity" height="30" width="80"
-src="https://drive.google.com/file/d/1etrqeOXUfuQG7w8MoAQOJKeXeCBDzNuX/view?usp=sharing">
+src="[https://drive.google.com/file/d/1etrqeOXUfuQG7w8MoAQOJKeXeCBDzNuX/view?usp=sharing](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)">
   <img align="center" alt="Juliana-Figma" height="30" width="80"
 src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" alt="Juliana-IJ" height="30" width="130"
