@@ -3,7 +3,7 @@
 - My name is Juliana. I have a Bachelor of Business Administration - BBA degree and I'm an Information Systems undergraduate @ University Of São Paulo.
 - 😄 Pronouns: She/her 🏳️‍🌈
 - 🔭 I’m currently working on educative games
-- 🌱 Learning C, C#, Java and Data Analytics
+- 🌱 Learning C, C#...
 
 <div align="center">
   <a href="https://github.com/juliana1390">
@@ -20,21 +20,15 @@
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Juliana-CSharp" height="30" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Juliana-Java" height="40" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>  
 
-  ##
+  #
   
 <div>
   <img align="center" alt="Juliana-unity" height="30" width="80"
 src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   <img align="center" alt="Juliana-Figma" height="30" width="80"
-src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img align="center" alt="Juliana-IJ" height="30" width="130"
-src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-<img align="center" alt="Juliana-VSCode" height="30" width="145"
-src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
+src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
 </div>
   
   ##
