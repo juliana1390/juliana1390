@@ -3,7 +3,7 @@
 - I'm Juliana. I have a Bachelor of Business Administration - BBA degree and I'm an Information Systems undergraduate @ University Of São Paulo.
 - 😄 Pronouns: She/her 🏳️‍🌈
 - 🔭 I’m currently working on educative games
-- 🌱 Learning C, C#/Unity, Java, Data Analytics
+- 🌱 Learning C, C#/Unity, Python, Java, Database/SQL/PostgreSQL
 
 <div align="center">
   <a href="https://github.com/juliana1390">
