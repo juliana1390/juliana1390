@@ -25,11 +25,11 @@
   #
   
 <div>
-  <a href="https://unity.com/pt" target="_blank"><img align="center" alt="Juliana-Js" height="40" width="40" src="https://camo.githubusercontent.com/5f675d7f25e0b706790a667aea70e6ca54c8ddb55fdbed851ab95884e51c7c9f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f756e69747933642f756e69747933642d69636f6e2e737667">
-  <a href="https://www.figma.com/pt-br/" target="_blank"><img align="center" alt="Juliana-Js" height="40" width="40" src="https://camo.githubusercontent.com/f32e9cca1f0df0138a8f536217daa54ad21b6913642422f32e3c5c623f3a06b9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667">
+  <a href="https://unity.com/pt" target="_blank"><img align="center" alt="Juliana-Js" height="40" width="40" src="https://camo.githubusercontent.com/5f675d7f25e0b706790a667aea70e6ca54c8ddb55fdbed851ab95884e51c7c9f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f756e69747933642f756e69747933642d69636f6e2e737667" target="_blank"></a>
+  <a href="https://www.figma.com/pt-br/" target="_blank"><img align="center" alt="Juliana-Js" height="40" width="40" src="https://camo.githubusercontent.com/f32e9cca1f0df0138a8f536217daa54ad21b6913642422f32e3c5c623f3a06b9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" target="_blank"></a>
   <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="Juliana-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" target="_blank"></a>
-  <a href="https://www.linux.org/" target="_blank"><img align="center" alt="Juliana-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Juliana-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+  <a href="https://www.linux.org/" target="_blank"><img align="center" alt="Juliana-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" target="_blank"></a>
+  <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Juliana-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" target="_blank"></a>
 </div>
   
   ##
