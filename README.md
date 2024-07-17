@@ -2,7 +2,7 @@
 
 - I'm Juliana. I have a Bachelor of Business Administration - BBA degree and I'm an Information Systems undergraduate @ University Of São Paulo.
 - 😄 Pronouns: She/her 🏳️‍🌈
-- 🔭 I’m currently working on educative projects at <a href="https://icmcjunior.com.br/" target="_blank">ICMC-JR</a>
+- 🔭 I’m currently working on projects at <a href="https://icmcjunior.com.br/" target="_blank">ICMC-JR</a>
 - 🌱 Learning ...
 
 <div align="center">
