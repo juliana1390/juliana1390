@@ -13,8 +13,8 @@
   
 <div style="display: inline_block"><br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" alt="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank"></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img align="center" alt="HTML" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank"></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img align="center" alt="CSS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_blank"></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank"></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_blank"></a>
   <a href="https://www.w3schools.com/c/c_intro.php" target="_blank"><img align="center" alt="C Programming Language" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" target="_blank"></a>
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img align="center" alt="C Sharp" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" target="_blank"></a>
   <a href="https://docs.oracle.com/en/java/" target="_blank"><img align="center" alt="Java Programming Language" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" target="_blank"></a>
