@@ -13,23 +13,23 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" alt="Juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank"></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img align="center" alt="Juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank"></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img align="center" alt="Juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_blank"></a>
-  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank"><img align="center" alt="Juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" target="_blank"></a>
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img align="center" alt="Juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" target="_blank"></a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank"><img align="center" alt="Juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" target="_blank"></a>
-  <a href="https://www.python.org/" target="_blank"><img align="center" alt="Juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" alt="Juliana-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank"></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img align="center" alt="Juliana-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank"></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img align="center" alt="Juliana-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_blank"></a>
+  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank"><img align="center" alt="Juliana-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" target="_blank"></a>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img align="center" alt="Juliana-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" target="_blank"></a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank"><img align="center" alt="Juliana-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" target="_blank"></a>
+  <a href="https://www.python.org/" target="_blank"><img align="center" alt="Juliana-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank"></a>
 </div>  
 
   #
   
 <div>
-  <a href="https://unity.com/pt" target="_blank"><img align="center" alt="Juliana-Js" height="30" width="40" src="https://camo.githubusercontent.com/5f675d7f25e0b706790a667aea70e6ca54c8ddb55fdbed851ab95884e51c7c9f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f756e69747933642f756e69747933642d69636f6e2e737667">
-  <a href="https://www.figma.com/pt-br/" target="_blank"><img align="center" alt="Juliana-Js" height="30" width="40" src="https://camo.githubusercontent.com/f32e9cca1f0df0138a8f536217daa54ad21b6913642422f32e3c5c623f3a06b9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667">
-  <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="Juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" target="_blank"></a>
-  <a href="https://www.linux.org/" target="_blank"><img align="center" alt="Juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+  <a href="https://unity.com/pt" target="_blank"><img align="center" alt="Juliana-Js" height="40" width="40" src="https://camo.githubusercontent.com/5f675d7f25e0b706790a667aea70e6ca54c8ddb55fdbed851ab95884e51c7c9f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f756e69747933642f756e69747933642d69636f6e2e737667">
+  <a href="https://www.figma.com/pt-br/" target="_blank"><img align="center" alt="Juliana-Js" height="40" width="40" src="https://camo.githubusercontent.com/f32e9cca1f0df0138a8f536217daa54ad21b6913642422f32e3c5c623f3a06b9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667">
+  <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="Juliana-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" target="_blank"></a>
+  <a href="https://www.linux.org/" target="_blank"><img align="center" alt="Juliana-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Juliana-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
 </div>
   
   ##
