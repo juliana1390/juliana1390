@@ -30,7 +30,7 @@
   <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="PostgreSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" target="_blank"></a>
   <a href="https://www.linux.org/" target="_blank"><img align="center" alt="Linux" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" target="_blank"></a>
   <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" target="_blank"></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img align="center" alt="Django" height="70" width="85" src="django.svg" target="_blank"></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img align="center" alt="Django" height="75" width="90" src="django.svg" target="_blank"></a>
   <a href="https://reactnative.dev/" target="_blank"><img align="center" alt="React Native" height="40" width="40" color="#61dafb" src="sdk-react-native.svg" target="_blank"></a>
   <a href="https://expo.dev/" target="_blank"><img align="center" alt="Expo" height="40" width="50" color="#ffffff" src="logo-wordmark.svg" target="_blank"></a>
 </div>
