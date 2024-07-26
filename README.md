@@ -30,7 +30,9 @@
   <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="PostgreSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" target="_blank"></a>
   <a href="https://www.linux.org/" target="_blank"><img align="center" alt="Linux" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" target="_blank"></a>
   <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" target="_blank"></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img align="center" alt="Django" height="70" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" "target="_blank"></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img align="center" alt="Django" height="70" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" target="_blank"></a>
+  <a href="https://reactnative.dev/" target="_blank"><img align="center" alt="React Native" height="70" width="85" src="sdk-react-native.svg" target="_blank"></a>
+  <a href="https://expo.dev/" target="_blank"><img align="center" alt="Expo" height="70" width="85" src="logo-wordmark.svg" target="_blank"></a>
 </div>
   
   ##
