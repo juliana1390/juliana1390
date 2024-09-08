@@ -25,14 +25,14 @@
   
 <div>
   <a href="https://unity.com/pt" target="_blank"><img align="center" alt="Unity Engine" height="35" width="35" src="unity.svg" target="_blank"></a>
-  <a href="https://www.figma.com/pt-br/" target="_blank"><img align="center" alt="Figma" height="34" width="35" src="https://camo.githubusercontent.com/f32e9cca1f0df0138a8f536217daa54ad21b6913642422f32e3c5c623f3a06b9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" target="_blank"></a>
-  <a href="https://www.oracle.com/br/" target="_blank"><img align="center" alt="Oracle" height="60" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-  <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="PostgreSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" target="_blank"></a>
-  <a href="https://www.linux.org/" target="_blank"><img align="center" alt="Linux" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" target="_blank"></a>
-  <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" target="_blank"></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img align="center" alt="Django" height="75" width="90" src="django.svg" target="_blank"></a>
-  <a href="https://reactnative.dev/" target="_blank"><img align="center" alt="React Native" height="40" width="40" color="#61dafb" src="sdk-react-native.svg" target="_blank"></a>
-  <a href="https://expo.dev/" target="_blank"><img align="center" alt="Expo" height="40" width="50" color="#ffffff" src="logo-wordmark.svg" target="_blank"></a>
+  <a href="https://www.figma.com/pt-br/" target="_blank"><img align="center" alt="Figma" src="figma.svg" target="_blank"></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img align="center" alt="Django" src="django.svg" target="_blank"></a>
+  <a href="https://reactnative.dev/" target="_blank"><img align="center" alt="React Native" src="react_native.svg" target="_blank"></a>
+  <a href="https://expo.dev/" target="_blank"><img align="center" alt="Expo" src="expo.svg" target="_blank"></a>
+  <a href="https://www.oracle.com/br/" target="_blank"><img align="center" alt="Oracle" src="oracle.svg"></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="PostgreSQL" src="postgresql.svg" target="_blank"></a>
+  <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" src="docker.svg" target="_blank"></a>
+  <a href="https://www.linux.org/" target="_blank"><img align="center" alt="Linux" src="linux.svg" target="_blank"></a>
 </div>
   
   ##
