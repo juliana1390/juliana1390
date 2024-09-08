@@ -24,7 +24,7 @@
   #
   
 <div>
-  <a href="https://unity.com/pt" target="_blank"><img align="center" alt="Unity Engine" height="35" width="35" src="unity.svg" target="_blank"></a>
+  <a href="https://unity.com/pt" target="_blank"><img align="center" alt="Unity Engine" src="unity.svg" target="_blank"></a>
   <a href="https://www.figma.com/pt-br/" target="_blank"><img align="center" alt="Figma" src="figma.svg" target="_blank"></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img align="center" alt="Django" src="django.svg" target="_blank"></a>
   <a href="https://reactnative.dev/" target="_blank"><img align="center" alt="React Native" src="react_native.svg" target="_blank"></a>
