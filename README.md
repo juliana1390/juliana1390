@@ -24,15 +24,15 @@
   #
   
 <div>
-  <a href="https://unity.com/pt" target="_blank"><img align="center" alt="Unity Engine" height="60" width="60" src="unity.svg" target="_blank"></a>
-  <a href="https://www.figma.com/pt-br/" target="_blank"><img align="center" alt="Figma" height="60" width="60" src="figma.svg" target="_blank"></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img align="center" alt="Django" height="60" width="60" src="django.svg" target="_blank"></a>
-  <a href="https://reactnative.dev/" target="_blank"><img align="center" alt="React Native" height="60" width="60" src="react_native.svg" target="_blank"></a>
-  <a href="https://expo.dev/" target="_blank"><img align="center" alt="Expo" src="expo.svg" height="60" width="60" target="_blank"></a>
-  <a href="https://www.oracle.com/br/" target="_blank"><img align="center" alt="Oracle" height="60" width="60" src="oracle.svg"></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="PostgreSQL" height="60" width="60" src="postgresql.svg" target="_blank"></a>
-  <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" height="60" width="60" src="docker.svg" target="_blank"></a>
-  <a href="https://www.linux.org/" target="_blank"><img align="center" alt="Linux" height="60" width="60" src="linux.svg" target="_blank"></a>
+  <a href="https://unity.com/pt" target="_blank"><img align="center" alt="Unity Engine" src="unity.svg" target="_blank"></a>
+  <a href="https://www.figma.com/pt-br/" target="_blank"><img align="center" alt="Figma" src="figma.svg" target="_blank"></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img align="center" alt="Django" src="django.svg" target="_blank"></a>
+  <a href="https://reactnative.dev/" target="_blank"><img align="center" alt="React Native" src="react_native.svg" target="_blank"></a>
+  <a href="https://expo.dev/" target="_blank"><img align="center" alt="Expo" src="expo.svg" target="_blank"></a>
+  <a href="https://www.oracle.com/br/" target="_blank"><img align="center" alt="Oracle" src="oracle.svg"></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="PostgreSQL" src="postgresql.svg" target="_blank"></a>
+  <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" src="docker.svg" target="_blank"></a>
+  <a href="https://www.linux.org/" target="_blank"><img align="center" alt="Linux" src="linux.svg" target="_blank"></a>
 </div>
   
   ##
